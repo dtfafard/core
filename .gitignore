@@ -1,8 +1,11 @@
 
 ###> symfony/framework-bundle ###
-.idea/
 /.env
 /public/bundles/
 /var/
 /vendor/
 ###< symfony/framework-bundle ###
+
+###> PHPStorm ###
+/.idea/
+###< PHPStorm ###
