@@ -1,6 +1,6 @@
 <?php
 
-namespace PSL\CoreBundle\Command;
+namespace DTFafard\CoreBundle\Command;
 
 use Symfony\Bundle\FrameworkBundle\Command\ContainerAwareCommand;
 use Symfony\Component\Console\Command\LockableTrait;
@@ -15,7 +15,7 @@ use Psr\Log\LoggerInterface;
  *
  * @author David Tremblay-Fafard <david.tremblay@firstwordgroup.com>
  */
-abstract class PSLCommand extends ContainerAwareCommand
+abstract class CoreCommand extends ContainerAwareCommand
 {
     use LockableTrait;
 

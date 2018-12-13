@@ -6,7 +6,7 @@
  * Time: 12:21 AM
  */
 
-namespace PSL\CoreBundle;
+namespace DTFafard\CoreBundle;
 
 use Symfony\Component\HttpKernel\Bundle\Bundle;
 
@@ -19,7 +19,7 @@ use Symfony\Component\HttpKernel\Bundle\Bundle;
  * @copyright P\S\L Group
  * @created 22/10/2018
  */
-class PSLCoreBundle extends Bundle
+class DTFafardCoreBundle extends Bundle
 {
 
 }

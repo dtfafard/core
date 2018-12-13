@@ -1,7 +1,7 @@
 {
-    "name": "psl/core-bundle",
+    "name": "dtfafard/core-bundle",
     "type": "symfony-bundle",
-    "license": "proprietary",
+    "license": "GPL v3.0",
     "require": {
         "php": "^7.1.3",
         "ext-ctype": "*",
@@ -24,12 +24,12 @@
     },
     "autoload": {
         "psr-4": {
-            "PSL\\CoreBundle\\": "src/PSL/CoreBundle"
+            "DTFafard\\CoreBundle\\": "src/DTFafard/CoreBundle"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "PSL\\CoreBundle\\Tests\\": "tests/"
+            "DTFafard\\CoreBundle\\Tests\\": "tests/"
         }
     },
     "scripts": {

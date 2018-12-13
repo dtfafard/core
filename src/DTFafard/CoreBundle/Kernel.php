@@ -1,6 +1,6 @@
 <?php
 
-namespace PSL\CoreBundle;
+namespace DTFafard\CoreBundle;
 
 use Symfony\Bundle\FrameworkBundle\Kernel\MicroKernelTrait;
 use Symfony\Component\Config\Loader\LoaderInterface;
